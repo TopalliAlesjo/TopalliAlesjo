@@ -10,7 +10,7 @@
 </p>
 <h4 align="center"> junior dev <3 </h5>
 <p align="center">
-           <img src="https://skillicons.dev/icons?i=nodejs,html,css,js,dotnet,"/>
+           <img src="https://skillicons.dev/icons?i=nodejs,html,css,js,dotnet,cs,"/>
 </p>
 <h6 align="center"> using <3 </h6>
 <p align="center">
