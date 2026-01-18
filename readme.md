@@ -24,10 +24,8 @@
 
 ## 👋 About Me
 
-- 🎓 sviluppatore junior
-- 💻 Amo creare applicazioni desktop, web e database
-- 🚀 Sempre curioso di imparare nuove tecnologie
-- 🤝 Aperto a collaborazioni e progetti open source
+- 🎓 Junior Dev
+- 🚀 Fortemente interessato all’apprendimento continuo e all’innovazione.
 
 ---
 
@@ -49,7 +47,7 @@
 </tr>
 <tr>
 <td>🛡️ VB (.Net)</td>
-<td>80%</td>
+<td>70%</td>
 <td>
   <a target="_blank" href="https://go-skill-icons.vercel.app/api/icons?i=vb">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=vb" width="48" alt="Visual Basic" style="max-width: 100%;" />
@@ -61,7 +59,7 @@
 </tr>
 <tr>
 <td>🐘 PHP</td>
-<td>50%</td>
+<td>90%</td>
 <td><a target="_blank" href="https://skillicons.dev/icons?i=php&theme=dark"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" style="max-width: 100%;"></a></td>
 </tr>
 <tr>
